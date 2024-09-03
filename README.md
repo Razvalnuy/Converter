@@ -29,6 +29,6 @@ Testing8 for vitaliya_ob
 2. Установите зависимости: npm install.
 3. Запустите приложение: npm run dev.
 
- ИЛИ просто клац сюды )  https://converter-one-orpin.vercel.app/
+ ИЛИ просто клац сюды )  https://converter-nine-jade.vercel.app/ || converter-nine-jade.vercel.app
 
 Выполнил Гаджибутаев Марат Арсенович.
